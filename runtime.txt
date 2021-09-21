@@ -1,0 +1,2 @@
+Loading TXT.. 
+Some Thing Error.. Read Main.py Or Updates.py ..
